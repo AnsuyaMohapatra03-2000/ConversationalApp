@@ -42,10 +42,3 @@ Instructions --
     python -m spacy download en_core_web_sm
     pip install chatterbot
 
-Voiceflow Project view link: https://creator.voiceflow.com/invite?invite_code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWFtX2lkIjoiMjlrTTdSWm5vMSIsInJvbGUiOiJ2aWV3ZXIiLCJieUxpbmsiOnRydWUsInRpbWUiOjE2MDYwNzQ3MzMsImlhdCI6MTYwNjA3NDczM30.ER818sHwT5n8HR5ZxelGv0XDBNVNb_B12oN8HzSlBCI
-
-An overview of 
-* What technologies/versions were used
-* Setup/Installations required to run the solution
-* Instructions to run the submitted code
-
