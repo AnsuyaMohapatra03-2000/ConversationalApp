@@ -28,14 +28,14 @@ Instructions --  <br />
 3.Install pip  <br />
 4.Install postgresql & pgAdmin4  <br />
 5.Run the following commands in prompt-  <br />
-    pip install django  <br />
-    pip install psycopg2  <br />
-    python manage.py collectstatic  <br />
-    python manage.py makemigrations  <br />
-    python manage.py migrate  <br />
-    python manage.py sqlmigrate home 0001  <br />
-    python manage.py sqlmigrate chat 0001  <br />
-    python manage.py runserver  <br />
+    -> pip install django  <br />
+    -> pip install psycopg2  <br />
+    -> python manage.py collectstatic  <br />
+    -> python manage.py makemigrations  <br />
+    -> python manage.py migrate  <br />
+    -> python manage.py sqlmigrate home 0001  <br />
+    -> python manage.py sqlmigrate chat 0001  <br />
+    -> python manage.py runserver  <br />
     pip install word2number
     pip install spacy
     pip install re
