@@ -49,11 +49,3 @@ An overview of
 * Setup/Installations required to run the solution
 * Instructions to run the submitted code
 
-### Team Members
-----------------------------------
-
-Vankineni Divya Sai Sindhuja - b218050@iiit-bh.ac.in : Google Assistant Integration, Chatterbot
-Ansuya Mohapatra             - b518010@iiit-bh.ac.in : Frontend, Backend
-Vakkanti Janani              - b518059@iiit-bh.ac.in : Frontend, Chatterbot
-Shibani Das                  - b518044@iiit-bh.ac.in : Backend, Webspeech API
-CVN Aditya Datta             - b518017@iiit-bh.ac.in : NLP Algorithm, Text-processing 
