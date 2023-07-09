@@ -1,4 +1,4 @@
-## Team Name - Project Name
+Project Name
 
 Cipher - Conversational Apps Integration with the core products using any technologies.
 
