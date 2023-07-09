@@ -36,9 +36,9 @@ Instructions --  <br />
     -> python manage.py sqlmigrate home 0001  <br />
     -> python manage.py sqlmigrate chat 0001  <br />
     -> python manage.py runserver  <br />
-    pip install word2number
-    pip install spacy
-    pip install re
-    python -m spacy download en_core_web_sm
-    pip install chatterbot
+    -> pip install word2number <br />
+    -> pip install spacy <br />
+    -> pip install re <br />
+    -> python -m spacy download en_core_web_sm <br />
+    -> pip install chatterbot <br />
 
